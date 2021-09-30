@@ -1,0 +1,1 @@
+[['reserved word', 'if'], ['symbol', '('], ['identifier letter', 't'], ['symbol', '=='], ['string', 'test'], ['symbol', '&&'], ['identifier letter', 'a'], ['symbol', '>'], ['number', '10'], ['symbol', ')'], ['symbol', '{'], ['identifier letter', 'b'], ['symbol', '='], ['number', '0'], ['symbol', '}'], ['meta statement', 'test2!'], ['reserved word', 'print'], ['string', 'end']]

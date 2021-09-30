@@ -1,0 +1,2 @@
+if ( t == "test" && a > 10 ){ b = 0 } //test2!
+print "end"
